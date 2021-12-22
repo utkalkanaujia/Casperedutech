@@ -68,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 12px 0;
+  
 }
 #header .logo h1 {
   font-size: 30px;
@@ -123,10 +124,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #11CFEE;
+  color: #F3752B;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
-  background: #11CFEE;
+  background: #F3752B;
   padding: 8px 25px;
   margin-left: 30px;
   border-radius: 50px;
@@ -134,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #4aa3df;
+  background: #F3752B;
 }
 .navbar .dropdown ul {
   display: block;
